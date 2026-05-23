@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+ 
+# Environment — contains your API key, never commit this
+.env
+ 
+# ffmpeg binary
+ffmpeg.exe
+ 
+# Temp audio files
+*.mp3
+*.wav
+*.webm
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
+# Logs
+*.log
+npm-debug.log*
+ 
